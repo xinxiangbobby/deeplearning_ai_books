@@ -1,8 +1,10 @@
-**Coursera深度学习教程中文笔记**
+# Deeplearning.ai深度学习教程中文笔记
 
 课程概述
 
 https://mooc.study.163.com/university/deeplearning_ai#/c
+
+[**笔记在线阅读**](http://www.ai-start.com/dl2017)
 
 这些课程专为已有一定基础（基本的编程知识，熟悉**Python**、对机器学习有基本了解），想要尝试进入人工智能领域的计算机专业人士准备。介绍显示：“深度学习是科技业最热门的技能之一，本课程将帮你掌握深度学习。”
 
@@ -24,24 +26,20 @@ https://mooc.study.163.com/university/deeplearning_ai#/c
 
 [我的知乎](https://www.zhihu.com/people/fengdu78/activities)
 
-微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
-知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
+机器学习qq群：955171419（我们有13个群，加过一个就不需要加了）
 
-**注意：github下载太慢的话，关注我的公众号：“机器学习初学者”，回复“github镜像”即可下载本仓库的镜像文件，整个仓库压缩成一个iso。**
+微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
+
 
 [我的知乎](https://www.zhihu.com/people/fengdu78/)
 
-**主要编写人员**：黄海广、林兴木（第四所有底稿，第五课第一二周，第三周前三节）、祝彦森:（第三课所有底稿）、贺志尧（第五课第三周底稿）、王翔、胡瀚文、 余笑、 郑浩、李怀松、 朱越鹏、陈伟贺、 曹越、 路皓翔、邱牧宸、 唐天泽、 张浩、 陈志豪、 游忍、 泽霖、沈伟臣、 贾红顺、 时超、 陈哲、赵一帆、 胡潇杨、段希、于冲、张鑫倩
+**主要编写人员**：黄海广、林兴木（第四所有底稿，第五课第一二周，第三周前三节）、祝彦森:（第三课所有底稿）、贺志尧（第五课第三周底稿）、张笑钦、覃立波、王翔、胡瀚文、 余笑、 郑浩、李怀松、 朱越鹏、陈伟贺、 曹越、 路皓翔、邱牧宸、 唐天泽、 张浩、 陈志豪、 游忍、 泽霖、沈伟臣、 贾红顺、 时超、 陈哲、赵一帆、 胡潇杨、段希、于冲、张鑫倩
 
 **参与编辑人员**：黄海广、陈康凯、石晴路、钟博彦、向伟、严凤龙、刘成 、贺志尧、段希、陈瑶、林家泳、王翔、 谢士晨、蒋鹏
 
 2018-04-14
 
-**本课程视频教程地址：**<https://mooc.study.163.com/university/deeplearning_ai#/c>
-
-**有同学提供了一个离线视频的下载**：链接：https://pan.baidu.com/s/1ciq3qHo0lgoD3MLRwfeqnA 密码：0kim
-
-（该视频从www.deeplearning.ai 网站下载，因众所周知的原因，国内用户观看某些在线视频非常不容易，故一些学者一起制作了离线视频，旨在方便国内用户个人学习使用，请勿用于商业用途。视频内嵌中英文字幕，推荐使用**potplayer**播放。版权属于吴恩达老师所有，若在线视频流畅，请到官方网站观看。）
+本课程视频教程地址（B站）：https://www.bilibili.com/video/BV16r4y1Y7jv
 
 [笔记网站(适合手机阅读)](http://www.ai-start.com)
 
@@ -55,7 +53,7 @@ haiguang2000@qq.com
 
 **转载请注明出处**：https://github.com/fengdu78/deeplearning_ai_books
 
-**机器学习qq群：659697409（我们有9个群，加过一个就不需要加了）** 
+
 
 # 深度学习笔记目录
 
